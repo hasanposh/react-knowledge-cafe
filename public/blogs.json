@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://images.pexels.com/photos/16304551/pexels-photo-16304551/free-photo-of-silver-bracelet-by-the-book.jpeg",
+      "title": "The Great Adventure",
+      "author": "John Smith",
+      "author-img": "https://example.com/author1.jpg",
+      "posted-date": "2024-03-12",
+      "reading-time": "10",
+      "hashtags": ["adventure", "fiction", "exciting"]
+    },
+    {
+      "id": 2,
+      "cover": "https://example.com/cover2.jpg",
+      "title": "Cooking 101",
+      "author": "Jane Doe",
+      "author-img": "https://example.com/author2.jpg",
+      "posted-date": "2024-03-10",
+      "reading-time": "15",
+      "hashtags": ["cooking", "recipes", "food"]
+    },
+    {
+      "id": 3,
+      "cover": "https://example.com/cover3.jpg",
+      "title": "The Art of Gardening",
+      "author": "Emily Green",
+      "author-img": "https://example.com/author3.jpg",
+      "posted-date": "2024-03-08",
+      "reading-time": "12",
+      "hashtags": ["gardening", "plants", "outdoors"]
+    },
+    {
+      "id": 4,
+      "cover": "https://example.com/cover4.jpg",
+      "title": "Finance Basics",
+      "author": "Michael Brown",
+      "author-img": "https://example.com/author4.jpg",
+      "posted-date": "2024-03-05",
+      "reading-time": "20",
+      "hashtags": ["finance", "money", "investing"]
+    },
+    {
+      "id": 5,
+      "cover": "https://example.com/cover5.jpg",
+      "title": "Travel Tales",
+      "author": "Samantha White",
+      "author-img": "https://example.com/author5.jpg",
+      "posted-date": "2024-03-03",
+      "reading-time": "18",
+      "hashtags": ["travel", "adventure", "explore"]
+    }
+  ]
+  
