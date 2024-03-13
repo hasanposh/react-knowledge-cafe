@@ -13,9 +13,9 @@ const Blog = ({ blog, handleToAddBookmarks ,handleMArkAsRead }) => {
   } = blog;
   console.log(blog);
   return (
-    <div className="my-10 space-y-2">
+    <div className="my-10 space-y-2 bg-sky-200 p-10 rounded-xl">
       <img
-        className=""
+        className="rounded-xl"
         src={cover}
         alt={`Cover picture of the title${title}`}
       />
