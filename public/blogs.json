@@ -1,52 +1,52 @@
 [
     {
       "id": 1,
-      "cover": "https://images.pexels.com/photos/16304551/pexels-photo-16304551/free-photo-of-silver-bracelet-by-the-book.jpeg",
+      "cover": "https://images.pexels.com/photos/16725115/pexels-photo-16725115/free-photo-of-photo-of-a-horse-and-woman-in-a-black-headscarf.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "title": "The Great Adventure",
       "author": "John Smith",
-      "author-img": "https://example.com/author1.jpg",
-      "posted-date": "2024-03-12",
-      "reading-time": "10",
+      "author_img": "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "posted_date": "2024-03-12",
+      "reading_time": "10",
       "hashtags": ["adventure", "fiction", "exciting"]
     },
     {
       "id": 2,
-      "cover": "https://example.com/cover2.jpg",
+      "cover": "https://images.pexels.com/photos/5203523/pexels-photo-5203523.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "title": "Cooking 101",
       "author": "Jane Doe",
-      "author-img": "https://example.com/author2.jpg",
-      "posted-date": "2024-03-10",
-      "reading-time": "15",
+      "author_img": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "posted_date": "2024-03-10",
+      "reading_time": "15",
       "hashtags": ["cooking", "recipes", "food"]
     },
     {
       "id": 3,
-      "cover": "https://example.com/cover3.jpg",
+      "cover": "https://images.pexels.com/photos/4792427/pexels-photo-4792427.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "title": "The Art of Gardening",
       "author": "Emily Green",
-      "author-img": "https://example.com/author3.jpg",
-      "posted-date": "2024-03-08",
-      "reading-time": "12",
+      "author_img": "https://images.unsplash.com/photo-1506863530036-1efeddceb993?q=80&w=1944&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "posted_date": "2024-03-08",
+      "reading_time": "12",
       "hashtags": ["gardening", "plants", "outdoors"]
     },
     {
       "id": 4,
-      "cover": "https://example.com/cover4.jpg",
+      "cover": "https://images.pexels.com/photos/4128029/pexels-photo-4128029.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "title": "Finance Basics",
       "author": "Michael Brown",
-      "author-img": "https://example.com/author4.jpg",
-      "posted-date": "2024-03-05",
-      "reading-time": "20",
+      "author_img": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "posted_date": "2024-03-05",
+      "reading_time": "20",
       "hashtags": ["finance", "money", "investing"]
     },
     {
       "id": 5,
-      "cover": "https://example.com/cover5.jpg",
+      "cover": "https://images.pexels.com/photos/1083822/pexels-photo-1083822.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "title": "Travel Tales",
       "author": "Samantha White",
-      "author-img": "https://example.com/author5.jpg",
-      "posted-date": "2024-03-03",
-      "reading-time": "18",
+      "author_img": "https://images.unsplash.com/photo-1499557354967-2b2d8910bcca?q=80&w=1936&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "posted_date": "2024-03-03",
+      "reading_time": "18",
       "hashtags": ["travel", "adventure", "explore"]
     }
   ]
